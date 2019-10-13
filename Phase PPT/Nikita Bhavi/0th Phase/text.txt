@@ -1,0 +1,37 @@
+
+India's disabled population is higher than the total populations of several countries, despite the under-reporting.Figure below shows India's disabled numbers,
+ and total population (disabled + non-disabled) of other countries.
+
+
+
+So far, the blind faced tremendous challenges daily in accessing information while on the move or for that matter in communicating with the world around them. 
+They had to depend on their sighted colleagues, friends or relatives or the people on the road to help them with locating places, making a phone call or informing their parents or loved ones that they are safe and would be home soon.
+
+
+
+
+Make and receive calls.
+Write and read SMS, MMS, and e-mail messages.
+Identify the phone number of an incoming call before you answer
+Modify Phone Settings as per choice.
+Lock keyboard, customize and record ringing tones.
+Read and write text messages.
+Check logs of incoming and outgoing calls, missed calls, accepted calls, and previously dialled numbers
+Dial a number from the phone book directly
+Add new entries to or edit existing entries in the contacts database
+Use the appointment calendar
+Set the clock and alarms
+Read status of network connectivity and battery level
+Control volume and speaking rate
+Browse the internet (you require GPRS connection from your Mobile Service provider to get Internet access)
+Directly access some of the phone’s most common applications through keyboard shortcuts.
+Access other applications such as the Calculator, Converter, Notes, File Manager.
+Run third-party applications for Symbian Series60 3rd edition.
+Connect with computers, mobile phones, and other devices.
+Access Wayfinder & Bluesky GPS and also Quick Office i.e. Quick Word, Quick Excel, etc.
+Read Daisy books downloaded from the Internet with the new optional Mobile Daisy Player add-on tool.
+
+
+
+
+
